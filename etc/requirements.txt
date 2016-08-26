@@ -66,4 +66,4 @@ intervaltree==2.1.0
 cachetools==1.1.5
 
 # For financial risk calculations
-empyrical==0.1.9
+-e git://github.com/quantopian/empyrical.git@6c8d59c0af66bb1243277bdb2822e34480395bb0#egg=empyrical-master
